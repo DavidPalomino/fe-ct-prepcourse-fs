@@ -33,7 +33,6 @@ function multiplica(x, y) {
    return x * y
 }
 
-multiplica(2,3);
 function obtenerResto(x, y) {
    // Obten el resto de la división de "x" entre "y".
    // Tu código:
