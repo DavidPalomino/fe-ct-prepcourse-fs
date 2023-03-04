@@ -14,6 +14,7 @@ const {
    esVerdadero,
    tieneTresDigitos,
    doWhile,
+   simpleForLoop
 } = require('../homework');
 
 describe('JAVASCRIPT II', function () {
