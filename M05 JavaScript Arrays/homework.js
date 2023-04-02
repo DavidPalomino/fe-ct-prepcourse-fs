@@ -246,6 +246,7 @@ function continueStatement(num) {
    }
    return array2
 }
+
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    devolverPrimerElemento,
